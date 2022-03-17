@@ -1,7 +1,7 @@
 {
-    "name": "express_server",
+    "name": "blog-express",
     "version": "1.0.0",
-    "description": "this is a server pratice",
+    "description": "this is a bog website from now on",
     "main": "index.js",
     "scripts": {
         "start": "node index"
@@ -9,6 +9,7 @@
     "author": "dipan",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.3"
+        "express": "^4.17.3",
+        "path": "^0.12.7"
     }
 }
